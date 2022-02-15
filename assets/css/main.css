@@ -307,7 +307,7 @@ input, select, textarea {
 	}
 
 	a:hover {
-		color: #ffffff;
+		color: #666666;
 	}
 
 	strong, b {
@@ -3335,7 +3335,7 @@ input, select, textarea {
 
 	#main {
 		background-color: #ffffff;
-		color: #636363;
+		color: #666666;
 		border-radius: 0.25em;
 	}
 
@@ -3352,7 +3352,7 @@ input, select, textarea {
 		}
 
 		#main h1, #main h2, #main h3, #main h4, #main h5, #main h6 {
-			color: #636363;
+			color: #666666;
 		}
 
 		#main blockquote {
@@ -3467,13 +3467,13 @@ input, select, textarea {
 		}
 
 			#main select option {
-				color: #636363;
+				color: #666666;
 				background: #ffffff;
 			}
 
 		#main input[type="checkbox"] + label,
 		#main input[type="radio"] + label {
-			color: #636363;
+			color: #666666;
 		}
 
 			#main input[type="checkbox"] + label:before,
@@ -3561,7 +3561,7 @@ input, select, textarea {
 			}
 
 		#main table th {
-			color: #636363;
+			color: #666666;
 		}
 
 		#main table thead {
