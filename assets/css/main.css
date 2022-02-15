@@ -3340,7 +3340,7 @@ input, select, textarea {
 	}
 
 		#main input, #main select, #main textarea {
-			color: #636363;
+			color: #000000;
 		}
 
 		#main a:hover {
@@ -3348,7 +3348,7 @@ input, select, textarea {
 		}
 
 		#main strong, #main b {
-			color: #636363;
+			color: #000000;
 		}
 
 		#main h1, #main h2, #main h3, #main h4, #main h5, #main h6 {
@@ -3356,16 +3356,16 @@ input, select, textarea {
 		}
 
 		#main blockquote {
-			border-left-color: #dddddd;
+			border-left-color: #000000;
 		}
 
 		#main code {
 			background: rgba(222, 222, 222, 0.25);
-			border-color: #dddddd;
+			border-color: #000000;
 		}
 
 		#main hr {
-			border-bottom-color: #dddddd;
+			border-bottom-color: #000000;
 		}
 
 		#main .box {
