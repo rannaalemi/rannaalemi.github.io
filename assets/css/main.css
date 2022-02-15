@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #935d8c;
+		background-color: #87C4BA;
 		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #E19CAB 15%, #87C4BA 85%);
 		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #E19CAB 15%, #87C4BA 85%);
 		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #E19CAB 15%, #87C4BA 85%);
@@ -126,7 +126,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-size: 17pt;
+		font-size: 20pt;
 		font-weight: 300;
 		line-height: 1.65;
 	}
@@ -303,7 +303,7 @@ input, select, textarea {
 	}
 
 	input, select, textarea {
-		color: #ffffff;
+		color: #666666;
 	}
 
 	a:hover {
